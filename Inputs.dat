@@ -1,0 +1,38 @@
+file_name
+----------
+lid_driven.dat
+
+imax   jmax      ibpts
+129     129   19999 
+
+  pinf       M      T        left_boundary    Right     Top       Bottom      istop           restart
+103338.0     0.288   300.0         4             4          1          4          25000              0 
+
+CFL   angle    irest    iprint    ipurge   order      kappa      viscous     mue        closed profile   immersed
+0.5     0.0     500      2            2    1          0.333        0          1.2e-1          1           0 
+
+!  order 
+!  1-  First order,viscous
+!  0-  Second order,inviscid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
